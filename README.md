@@ -32,3 +32,24 @@ Arben Krosa (Sahit)
 1012867936
 
 ```
+# kerkesat
+
+```
+210/2025
+00190-0
+Rexhep (Muharrem) Krosa
+1012868550
+Varosh
+
+
+211/2025
+00198-4
+Halit (Rrustem) Krosa
+1012452396
+
+212/2025
+00198-3
+Arben Krosa (Sahit)
+1012867936
+
+```
