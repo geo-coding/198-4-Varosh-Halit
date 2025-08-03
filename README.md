@@ -12,6 +12,8 @@ Rexhep (Muharrem) Krosa
 1290.3
 Rexhep (Muharrem) Krosa
 1012868550
+KODRA E MADHE
+
 
 00198-6
 134
@@ -24,12 +26,15 @@ Rexhep (Muharrem) Krosa
 600
 Halit (Rrustem) Krosa
 1012452396
+KODRA E MADHE	
 
 00198-3
 609
 609
 Arben Krosa (Sahit)
 1012867936
+
+KODRA E MADHE	
 
 ```
 # kerkesat
