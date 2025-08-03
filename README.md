@@ -28,6 +28,12 @@ Halit (Rrustem) Krosa
 1012452396
 KODRA E MADHE	
 
+Gjendja e vjetër			Gjendja e re		
+Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
+    00198-4	600	m²	    00198-7	502	m²
+			            00198-8	98	m²
+Gjithsej	600	m²	Gjithsej	600	m²
+
 00198-3
 609
 609
@@ -51,6 +57,9 @@ Varosh
 00198-4
 Halit (Rrustem) Krosa
 1012452396
+
+dyfishe
+2
 
 212/2025
 00198-3
